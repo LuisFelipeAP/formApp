@@ -1,6 +1,33 @@
 import { Plus } from 'lucide-react'
+import { useQuery } from '@tanstack/react-query'
+
+export interface tagsResponse {
+  first: number
+  prev: number | null
+  next: number
+  last: number
+  pages: number
+  items: number
+  data: Tags[]
+}
+
+export interface Tags {
+  title: string
+  amountOfVideos: number
+  id: string
+}
 
 export function App() {
+  const { data: tagsResponse, isLoading } = useQuery<tagsResponse>({
+    queryKey: ['get-tags'],
+    queryFn: async () => {
+      const response = await fetch('http://localhost:3333/tags?_page=1&_per_page=10')
+      const data = await response.json()
+
+      return data
+    },
+  })
+
   return (
     <div className="py-10 space-y-8">
       <div>
