@@ -1,0 +1,332 @@
+{
+    "tags": [
+        {
+            "title": "React",
+            "amountOfVideos": 624
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 943
+        },
+        {
+            "title": "Vue.js",
+            "amountOfVideos": 527
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 812
+        },
+        {
+            "title": "Express.js",
+            "amountOfVideos": 379
+        },
+        {
+            "title": "Django",
+            "amountOfVideos": 1056
+        },
+        {
+            "title": "Flask",
+            "amountOfVideos": 217
+        },
+        {
+            "title": "Spring Boot",
+            "amountOfVideos": 722
+        },
+        {
+            "title": "Laravel",
+            "amountOfVideos": 498
+        },
+        {
+            "title": "Ruby on Rails",
+            "amountOfVideos": 601
+        },
+        {
+            "title": "Ember.js",
+            "amountOfVideos": 145
+        },
+        {
+            "title": "Backbone.js",
+            "amountOfVideos": 82
+        },
+        {
+            "title": "Meteor.js",
+            "amountOfVideos": 279
+        },
+        {
+            "title": "jQuery",
+            "amountOfVideos": 1803
+        },
+        {
+            "title": "Svelte",
+            "amountOfVideos": 59
+        },
+        {
+            "title": "Aurelia",
+            "amountOfVideos": 38
+        },
+        {
+            "title": "Polymer",
+            "amountOfVideos": 74
+        },
+        {
+            "title": "Mithril",
+            "amountOfVideos": 29
+        },
+        {
+            "title": "Preact",
+            "amountOfVideos": 123
+        },
+        {
+            "title": "Knockout.js",
+            "amountOfVideos": 97
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 789
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 1025
+        },
+        {
+            "title": "Vue.js",
+            "amountOfVideos": 654
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 1347
+        },
+        {
+            "title": "Express.js",
+            "amountOfVideos": 438
+        },
+        {
+            "title": "Django",
+            "amountOfVideos": 1753
+        },
+        {
+            "title": "Flask",
+            "amountOfVideos": 319
+        },
+        {
+            "title": "Spring Boot",
+            "amountOfVideos": 912
+        },
+        {
+            "title": "Laravel",
+            "amountOfVideos": 576
+        },
+        {
+            "title": "Ruby on Rails",
+            "amountOfVideos": 702
+        },
+        {
+            "title": "Ember.js",
+            "amountOfVideos": 195
+        },
+        {
+            "title": "Backbone.js",
+            "amountOfVideos": 116
+        },
+        {
+            "title": "Meteor.js",
+            "amountOfVideos": 397
+        },
+        {
+            "title": "jQuery",
+            "amountOfVideos": 2106
+        },
+        {
+            "title": "Svelte",
+            "amountOfVideos": 83
+        },
+        {
+            "title": "Aurelia",
+            "amountOfVideos": 56
+        },
+        {
+            "title": "Polymer",
+            "amountOfVideos": 91
+        },
+        {
+            "title": "Mithril",
+            "amountOfVideos": 41
+        },
+        {
+            "title": "Preact",
+            "amountOfVideos": 147
+        },
+        {
+            "title": "Knockout.js",
+            "amountOfVideos": 115
+        },
+        {
+            "title": "Stencil.js",
+            "amountOfVideos": 78
+        },
+        {
+            "title": "Riot.js",
+            "amountOfVideos": 62
+        },
+        {
+            "title": "Inferno.js",
+            "amountOfVideos": 54
+        },
+        {
+            "title": "Marko",
+            "amountOfVideos": 31
+        },
+        {
+            "title": "Alpine.js",
+            "amountOfVideos": 94
+        },
+        {
+            "title": "Sapper",
+            "amountOfVideos": 543
+        },
+        {
+            "title": "Nuxt.js",
+            "amountOfVideos": 767
+        },
+        {
+            "title": "Next.js",
+            "amountOfVideos": 822
+        },
+        {
+            "title": "Gatsby",
+            "amountOfVideos": 978
+        },
+        {
+            "title": "Hugo",
+            "amountOfVideos": 891
+        },
+        {
+            "title": "Jekyll",
+            "amountOfVideos": 836
+        },
+        {
+            "title": "Gridsome",
+            "amountOfVideos": 799
+        },
+        {
+            "title": "React",
+            "amountOfVideos": 921
+        },
+        {
+            "title": "Angular",
+            "amountOfVideos": 1189
+        },
+        {
+            "title": "Vue.js",
+            "amountOfVideos": 786
+        },
+        {
+            "title": "Node.js",
+            "amountOfVideos": 1568
+        },
+        {
+            "title": "Express.js",
+            "amountOfVideos": 501
+        },
+        {
+            "title": "Django",
+            "amountOfVideos": 1996
+        },
+        {
+            "title": "Flask",
+            "amountOfVideos": 365
+        },
+        {
+            "title": "Spring Boot",
+            "amountOfVideos": 1043
+        },
+        {
+            "title": "Laravel",
+            "amountOfVideos": 657
+        },
+        {
+            "title": "Ruby on Rails",
+            "amountOfVideos": 798
+        },
+        {
+            "title": "Ember.js",
+            "amountOfVideos": 223
+        },
+        {
+            "title": "Backbone.js",
+            "amountOfVideos": 131
+        },
+        {
+            "title": "Meteor.js",
+            "amountOfVideos": 448
+        },
+        {
+            "title": "jQuery",
+            "amountOfVideos": 2369
+        },
+        {
+            "title": "Svelte",
+            "amountOfVideos": 93
+        },
+        {
+            "title": "Aurelia",
+            "amountOfVideos": 67
+        },
+        {
+            "title": "Polymer",
+            "amountOfVideos": 112
+        },
+        {
+            "title": "Mithril",
+            "amountOfVideos": 52
+        },
+        {
+            "title": "Preact",
+            "amountOfVideos": 172
+        },
+        {
+            "title": "Knockout.js",
+            "amountOfVideos": 135
+        },
+        {
+            "title": "Stencil.js",
+            "amountOfVideos": 91
+        },
+        {
+            "title": "Riot.js",
+            "amountOfVideos": 74
+        },
+        {
+            "title": "Inferno.js",
+            "amountOfVideos": 65
+        },
+        {
+            "title": "Marko",
+            "amountOfVideos": 37
+        },
+        {
+            "title": "Alpine.js",
+            "amountOfVideos": 111
+        },
+        {
+            "title": "Sapper",
+            "amountOfVideos": 654
+        },
+        {
+            "title": "Nuxt.js",
+            "amountOfVideos": 898
+        },
+        {
+            "title": "Next.js",
+            "amountOfVideos": 976
+        },
+        {
+            "title": "Gatsby",
+            "amountOfVideos": 1158
+        },
+        {
+            "title": "Hugo",
+            "amountOfVideos": 1047
+        }
+    ]
+}
